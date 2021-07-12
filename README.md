@@ -26,7 +26,7 @@ This project was developed using  the most modern front-end technologies.
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/josepholiveira/podcastr.git && cd podcastr
+$ git clone https://github.com/GabrSobral/NLW-5-Podcastr.git
 ```
 
 **Follow the steps below**
