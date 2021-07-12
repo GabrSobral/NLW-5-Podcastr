@@ -2,8 +2,6 @@
   <img src="github/logo.svg" alt="Podcastr logo">
 </div>
 
-# Podcastr 👋
-
 
 ![Podcastr preview](github/Landing.png)
 
